@@ -251,7 +251,7 @@ p {
 }
 
 .choice-card {
-  min-height: 500px;
+  min-height: 400px;
   position: relative;
   overflow: hidden;
   display: flex;
