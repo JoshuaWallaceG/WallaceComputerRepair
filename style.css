@@ -1001,3 +1001,20 @@ p {
     border-radius: 28px;
   }
 }
+
+/* ALT */
+.icon-illustration {
+  color: var(--blue);
+}
+
+.hero-icon {
+  position: relative;
+  z-index: 1;
+  width: 175px;
+  height: 175px;
+  filter: drop-shadow(0 16px 24px rgba(7, 52, 79, 0.12));
+}
+
+.repair-card .hero-icon {
+  color: var(--teal-dark);
+}
