@@ -1,0 +1,6 @@
+# Old local files
+archive/
+
+# OS junk
+.DS_Store
+Thumbs.db
