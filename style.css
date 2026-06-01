@@ -312,11 +312,11 @@ p {
 
 .illustration {
   width: min(280px, 80%);
-  height: 190px;
+  height: 180px;
   position: relative;
   display: grid;
   place-items: center;
-  margin-bottom: 12px;
+  margin-bottom: 0px;
 }
 
 .soft-blob {
@@ -681,7 +681,7 @@ p {
 
 .project-content p {
   margin: 0;
-  font-size: 0.96rem; /*p*/
+  font-size: 0.91rem; /*p*/
   line-height: 1.55;
 }
 
